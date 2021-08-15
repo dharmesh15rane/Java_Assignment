@@ -1,0 +1,32 @@
+INFO	2021-08-02 15:11:27,352	0	com.yash.log4j.Demo1	[main]	hey we are calling add()20..30
+INFO	2021-08-02 15:11:27,353	1	com.yash.log4j.Demo1	[main]	50
+INFO	2021-08-02 15:18:38,125	0	com.yash.log4j.Demo1	[main]	hey we are calling add()20..30
+INFO	2021-08-02 15:18:38,125	0	com.yash.log4j.Demo1	[main]	0
+INFO	2021-08-02 15:18:56,903	0	com.yash.log4j.Demo1	[main]	hey we are calling divide()20..0
+WARN	2021-08-02 15:36:18,131	0	com.yash.log4j.Demo1	[main]	Hi Logger
+INFO	2021-08-02 15:36:18,132	1	com.yash.log4j.Demo1	[main]	hey we are calling divide()20..0
+ERROR	2021-08-02 15:36:18,136	5	com.yash.log4j.Demo1	[main]	/ by zero
+java.lang.ArithmeticException: / by zero
+	at com.yash.log4j.Demo1.main(Demo1.java:14)
+DEBUG	2021-08-02 15:36:18,137	6	com.yash.log4j.Demo1	[main]	i am debug
+WARN	2021-08-02 16:08:38,278	0	com.yash.log4j.Demo1	[main]	Hi Logger
+INFO	2021-08-02 16:08:38,278	0	com.yash.log4j.Demo1	[main]	hey we are calling divide()20..0
+ERROR	2021-08-02 16:08:38,280	2	com.yash.log4j.Demo1	[main]	/ by zero
+java.lang.ArithmeticException: / by zero
+	at com.yash.log4j.Demo1.main(Demo1.java:15)
+DEBUG	2021-08-02 16:08:38,281	3	com.yash.log4j.Demo1	[main]	i am debug
+INFO	2021-08-02 16:08:38,281	3	com.yash.log4j.Demo1	[main]	50
+WARN	2021-08-02 16:18:18,004	0	com.yash.log4j.Demo1	[main]	Hi Logger
+INFO	2021-08-02 16:18:18,005	1	com.yash.log4j.Demo1	[main]	hey we are calling divide()20..0
+ERROR	2021-08-02 16:18:18,008	4	com.yash.log4j.Demo1	[main]	/ by zero
+java.lang.ArithmeticException: / by zero
+	at com.yash.log4j.Demo1.main(Demo1.java:24)
+DEBUG	2021-08-02 16:18:18,010	6	com.yash.log4j.Demo1	[main]	i am debug
+INFO	2021-08-02 16:18:18,010	6	com.yash.log4j.Demo1	[main]	50
+WARN	2021-08-02 16:23:10,498	0	com.yash.log4j.Demo1	[main]	Hi Logger
+INFO	2021-08-02 16:23:10,499	1	com.yash.log4j.Demo1	[main]	hey we are calling divide()20..0
+ERROR	2021-08-02 16:23:10,501	3	com.yash.log4j.Demo1	[main]	/ by zero
+java.lang.ArithmeticException: / by zero
+	at com.yash.log4j.Demo1.main(Demo1.java:24)
+DEBUG	2021-08-02 16:23:10,502	4	com.yash.log4j.Demo1	[main]	i am debug
+INFO	2021-08-02 16:23:10,502	4	com.yash.log4j.Demo1	[main]	50
